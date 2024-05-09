@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tQlo+6P1grGZKVrlb63zZ+dCXLsRsA5OcPLYwkw2cMXDh7kSmRd4dGwyWcfrLSNHeqqp/pG3q9OvNq8bRJGcOA==",
+  "dgSpecHash": "m1cc7nlxnNGjkU8IMsaz8VMvSvECxNsg1A3WhOZVSqnnJtSp2Eq8VvCPJlUx9o1Q4x/kmCVfnbTEHylwW5uIbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\asha.dharmaraj\\Desktop\\Capstone_CourseModule\\Mano_lxp1\\LXP\\LXP.Core.Tests\\LXP.Core.Tests.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\asha.dharmaraj\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\asha.dharmaraj\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\asha.dharmaraj\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\asha.dharmaraj\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\asha.dharmaraj\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\asha.dharmaraj\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\asha.dharmaraj\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",
     "C:\\Users\\asha.dharmaraj\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",
     "C:\\Users\\asha.dharmaraj\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.5\\k4os.compression.lz4.streams.1.3.5.nupkg.sha512",

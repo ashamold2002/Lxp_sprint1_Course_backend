@@ -20,14 +20,20 @@ namespace LXP.Api.Controllers
         [HttpPost("/lxp/course")]
         public async Task<IActionResult> AddCourse(CourseViewModel course)
         {
-            var isCourseCreated=_courseServices.AddCourse(course);
-            if(isCourseCreated)
+            // Validate model state
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            var isCourseCreated = _courseServices.AddCourse(course);
+            if (isCourseCreated)
             {
                 return Ok(CreateSuccessResponse(null));
             }
             return Ok(CreateFailureResponse("Not Created", 400));
 
-            
+
         }
         [HttpGet("/lxp/course/{id}")]
         public async Task<IActionResult> GetCourseDetails(string id)

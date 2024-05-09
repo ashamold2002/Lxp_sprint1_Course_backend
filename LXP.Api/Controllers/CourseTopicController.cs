@@ -27,7 +27,7 @@ namespace LXP.Api.Controllers
             }
             else
             {
-                return Ok(CreateFailureResponse("Category is already exists", 422));
+                return Ok(CreateFailureResponse("Topic not created", 400));
             }
             
         }

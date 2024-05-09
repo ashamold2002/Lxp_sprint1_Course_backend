@@ -11,6 +11,7 @@ using Serilog;
 using LXP.Data.DBContexts;
 using System.Reflection;
 using Microsoft.Extensions.FileProviders;
+using FluentValidation.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -35,6 +36,11 @@ builder.Services.AddScoped<ICourseTopicServices,CourseTopicServices>();
 builder.Services.AddScoped<ICourseRepository,CourseRepository>();
 builder.Services.AddScoped<ICourseServices,CourseServices>();
 builder.Services.AddSingleton<LXPDbContext>();
+builder.Services.AddControllers()
+    .AddFluentValidation(v =>
+    {
+        v.RegisterValidatorsFromAssembly(Assembly.GetExecutingAssembly());
+    });
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

@@ -254,3 +254,7 @@ C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Api\obj\
 C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Api\obj\Debug\net8.0\LXP.Api.pdb
 C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Api\obj\Debug\net8.0\LXP.Api.genruntimeconfig.cache
 C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Api\obj\Debug\net8.0\ref\LXP.Api.dll
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Api\obj\Debug\net8.0\LXP.Api.sourcelink.json
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

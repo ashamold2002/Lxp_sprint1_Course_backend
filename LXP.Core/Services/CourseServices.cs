@@ -72,7 +72,8 @@ namespace LXP.Core.Services
 
 
                 };
-                 _courseRepository.AddCourse(newcourse);
+                _courseRepository.AddCourse(newcourse);
+
                 return true;
             }
             else

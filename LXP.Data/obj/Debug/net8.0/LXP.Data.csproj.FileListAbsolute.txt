@@ -50,3 +50,4 @@ C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Data\obj
 C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.pdb
 C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.genruntimeconfig.cache
 C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Data\obj\Debug\net8.0\ref\LXP.Data.dll
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Data\obj\Debug\net8.0\LXP.Data.sourcelink.json
